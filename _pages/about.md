@@ -11,7 +11,7 @@ Hi! I am Rodrigo Martin, an economist from Mendoza, Argentina. In August 2026, I
 
 My research focuses on international trade, firm dynamics, and trade policy. I am particularly interested in how changes in trade costs and policy shocks affect firm-level labor productivity and how these effects propagate through production networks and across regions. I combine empirical methods — including causal inference, gravity models, and geospatial analysis — with structural and quantitative modeling to study these questions.
 
-I hold a Master's in Economics from Universidad de San Andrés and a Bachelor's in Economics from Universidad de Buenos Aires, which I completed in three years. Currently, I work as a Short-Term Consultant at the World Bank's Development Economics Research Group (DECRG) and as a Research Assistant at Universidad de San Andrés. Previously, I worked as a Productive Development Analyst at Fundar, a Research Fellow at UBA's Center for Research in Econometrics, and as an Advisor to the Secretary of Industry at the Ministry of Productive Development.
+I hold a Master's in Economics from Universidad de San Andrés and a Bachelor's in Economics from Universidad de Buenos Aires. Currently, I work as a Short-Term Consultant at the World Bank's Development Economics Research Group (DECRG) and as a Research Assistant at Universidad de San Andrés. Previously, I worked as a Productive Development Analyst at Fundar, a Research Fellow at UBA's Center for Research in Econometrics, and as an Advisor to the Secretary of Industry at the Ministry of Productive Development.
 
 You can reach me at [martin.rodrigot@gmail.com](mailto:martin.rodrigot@gmail.com)
 
